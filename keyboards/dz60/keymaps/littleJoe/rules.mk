@@ -4,6 +4,6 @@
 #     automatically (+60). See bootloader.mk for all options.
 BOOTLOADER = atmel-dfu
 
-UNICODE_ENABLE = yes
-TAP_DANCE_ENABLE=yes
 RGBLIGHT_ENABLE = no
+UNICODE_ENABLE = yes
+TAP_DANCE_ENABLE = yes
